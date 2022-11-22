@@ -37,9 +37,8 @@ for(int f=0;f<vec.length;f++){
     }
 System.out.println("Los espacios de memria utilizados son:"+suma);
     }
-}
+} 
 public static void main(String[]ar){
     PagMemoria m=new PagMemoria();
     }
-
 }
