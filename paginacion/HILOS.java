@@ -1,6 +1,8 @@
 
 public class GuruThread1 implements Runnable{
 
+    public GuruThread1() {
+    }
     /**
      * @param args
      */
